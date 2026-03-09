@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SportBooking.sln\SportBooking.Domain.csproj" />
+    <ProjectReference Include="..\SportBooking.Domain\SportBooking.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
